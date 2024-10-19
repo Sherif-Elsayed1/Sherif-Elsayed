@@ -114,7 +114,7 @@ User is on the login screen <br>
 Pass <br>
 
 ## Any.do_HomePage_TC <br>
-<br>
+
 ## TC_ID 1 <br>
 **Test Title** <br>
 Verify that the search bar allows users to search for tasks, events, and notes <br>
@@ -357,7 +357,7 @@ Verify that all "My lists" section counts the inside tasks successfully <br>
 Pass <br>
 
 ## Any.do_bottomBar_TC <br>
-<br>
+
 ## TC_ID 1 <br>
 **Test Title** <br>
 Verify that a user can create a new task by using the input box at the bottom of the screen. <br>
