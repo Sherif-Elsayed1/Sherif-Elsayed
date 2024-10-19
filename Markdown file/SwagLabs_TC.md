@@ -1,212 +1,212 @@
 # SwagLabs_TCs <br>
 
 **Test_ID 1**<br>
-**Test Title**
-Verify that user can login using correct username and correct password
-**Pre-condition**
-1- Open the link "https://www.saucedemo.com/"
-**Test Steps**
-1- Click on username field
-2- Enter correct username
-3- Click on password field
-4- Enter correct password
-5- Click on ""login"" button
-**Test Data**
-username : standard_user
-password : secret_sauce
-**Expected Result**
-User should be able to login successfully 
-**Actual Result**
-User is logged in successfully
-**Status**
-Pass
+**Test Title**<br>
+Verify that user can login using correct username and correct password<br>
+**Pre-condition**<br>
+1- Open the link "https://www.saucedemo.com/"<br>
+**Test Steps**<br>
+1- Click on username field<br>
+2- Enter correct username<br>
+3- Click on password field<br>
+4- Enter correct password<br>
+5- Click on ""login"" button<br>
+**Test Data**<br>
+username : standard_user<br>
+password : secret_sauce<br>
+**Expected Result**<br>
+User should be able to login successfully<br> 
+**Actual Result**<br>
+User is logged in successfully<br>
+**Status**<br>
+Pass<br>
 
-**Test_ID 2**
-**Test Title**
-Verify that user can not login using incorrect username and correct password
-**Pre-condition**
-1- Open the link "https://www.saucedemo.com/"
-**Test Steps**
-1- Click on username field
-2- Enter incorrect username
-3- Click on password field
-4- Enter correct password
-5- Click on ""login"" button
-**Test Data**
-username : standard
-password : secret_sauce
-**Expected Result**
-1- User should not be able to login
-2- An error message should appear : 
-   ""Username and password do not match any user in this service""
-**Actual Result**
-1- User can not be able to login
-2- An error message appears : 
-   ""Username and password do not match any user in this service""
-**Status**
-Pass
+**Test_ID 2**<br>
+**Test Title**<br>
+Verify that user can not login using incorrect username and correct password<br>
+**Pre-condition**<br>
+1- Open the link "https://www.saucedemo.com/"<br>
+**Test Steps**<br>
+1- Click on username field<br>
+2- Enter incorrect username<br>
+3- Click on password field<br>
+4- Enter correct password<br>
+5- Click on ""login"" button<br>
+**Test Data**<br>
+username : standard<br>
+password : secret_sauce<br>
+**Expected Result**<br>
+1- User should not be able to login<br>
+2- An error message should appear : <br>
+   ""Username and password do not match any user in this service""<br>
+**Actual Result**<br>
+1- User can not be able to login<br>
+2- An error message appears : <br>
+   ""Username and password do not match any user in this service""<br>
+**Status**<br>
+Pass<br>
 
-**Test_ID 3**
-**Test Title**
-Verify that user can not login using correct username and incorrect password
-**Pre-condition**
-1- Open the link "https://www.saucedemo.com/"
-**Test Steps**
-1- Click on username field
-2- Enter correct username
-3- Click on password field
-4- Enter incorrect password
-5- Click on ""login"" button
-**Test Data**
-username : standard_user
-password : secret
-**Expected Result**
-1- User should not be able to login
-2- An error message should appear : 
-   ""Username and password do not match any user in this service""
-**Actual Result**
-1- User can not be able to login
-2- An error message appears : 
-   ""Username and password do not match any user in this service""
-**Status**
-Pass
+**Test_ID 3**<br>
+**Test Title**<br>
+Verify that user can not login using correct username and incorrect password<br>
+**Pre-condition**<br>
+1- Open the link "https://www.saucedemo.com/"<br>
+**Test Steps**<br>
+1- Click on username field<br>
+2- Enter correct username<br>
+3- Click on password field<br>
+4- Enter incorrect password<br>
+5- Click on ""login"" button<br>
+**Test Data**<br>
+username : standard_user<br>
+password : secret<br>
+**Expected Result**<br>
+1- User should not be able to login<br>
+2- An error message should appear : <br>
+   ""Username and password do not match any user in this service""<br>
+**Actual Result**<br>
+1- User can not be able to login<br>
+2- An error message appears : <br>
+   ""Username and password do not match any user in this service""<br>
+**Status**<br>
+Pass<br>
 
-**Test_ID 4**
-**Test Title**
-Verify that user can not login using incorrect username and incorrect password
-**Pre-condition**
-1- Open the link "https://www.saucedemo.com/"
-**Test Steps**
-"1- Click on username field
-2- Enter correct username
-3- Click on password field
-4- Enter incorrect password
-5- Click on ""login"" button"
-**Test Data**
-"username : standard
-password : secret"
-**Expected Result**
-1- User should not be able to login
-2- An error message should appear : 
-   ""Username and password do not match any user in this service""
-**Actual Result**
-1- User can not be able to login
-2- An error message appears : 
-   ""Username and password do not match any user in this service""
-**Status**
-Pass
+**Test_ID 4**<br>
+**Test Title**<br>
+Verify that user can not login using incorrect username and incorrect password<br>
+**Pre-condition**<br>
+1- Open the link "https://www.saucedemo.com/"<br>
+**Test Steps**<br>
+"1- Click on username field<br>
+2- Enter correct username<br>
+3- Click on password field<br>
+4- Enter incorrect password<br>
+5- Click on ""login"" button"<br>
+**Test Data**<br>
+"username : standard<br>
+password : secret"<br>
+**Expected Result**<br>
+1- User should not be able to login<br>
+2- An error message should appear : <br>
+   ""Username and password do not match any user in this service""<br>
+**Actual Result**<br>
+1- User can not be able to login<br>
+2- An error message appears : <br>
+   ""Username and password do not match any user in this service""<br>
+**Status**<br>
+Pass<br>
 
 
-**Test_ID 5**
-**Test Title**
-Verify that user can not login with blank username 
-**Pre-condition**
-1- Open the link "https://www.saucedemo.com/"
-**Test Steps**
-1- Click on password field
-2- Enter correct password
-3- Click on ""login"" button
-**Test Data**
-password : secret
-**Expected Result**
-1- User should not be able to login
-2- An error message should appear : 
-   ""Username is required""
-**Actual Result**
-1- User can not be able to login
-2- An error message  appears : 
-   ""Username is required""
-**Status**
-Pass
+**Test_ID 5**<br>
+**Test Title**<br>
+Verify that user can not login with blank username <br>
+**Pre-condition**<br>
+1- Open the link "https://www.saucedemo.com/"<br>
+**Test Steps**<br>
+1- Click on password field<br>
+2- Enter correct password<br>
+3- Click on ""login"" button<br>
+**Test Data**<br>
+password : secret<br>
+**Expected Result**<br>
+1- User should not be able to login<br>
+2- An error message should appear : <br>
+   ""Username is required""<br>
+**Actual Result**<br>
+1- User can not be able to login <br>
+2- An error message  appears : <br>
+   ""Username is required"" <br>
+**Status**<br>
+Pass<br>
 
-**Test_ID 6**
-**Test Title**
-Verify that user can not login with blank password
-**Pre-condition**
-1- Open the link "https://www.saucedemo.com/"
-**Test Steps**
-1- Click on username field
-2- Enter correct username
-3- Click on ""login"" button
-**Test Data**
-username : standard_user
-**Expected Result**
-1- User should not be able to login
-2- An error message should appear : 
-   ""Username is required""
-**Actual Result**
-1- User can not be able to login
-2- An error message  appears : 
-   ""Password is required""
-**Status**
-Pass
+**Test_ID 6** <br>
+**Test Title** <br>
+Verify that user can not login with blank password<br>
+**Pre-condition**<br>
+1- Open the link "https://www.saucedemo.com/"<br>
+**Test Steps**<br>
+1- Click on username field<br>
+2- Enter correct username <br>
+3- Click on ""login"" button<br>
+**Test Data**<br>
+username : standard_user<br>
+**Expected Result**<br>
+1- User should not be able to login<br>
+2- An error message should appear : <br>
+   ""Username is required""<br>
+**Actual Result**<br>
+1- User can not be able to login<br>
+2- An error message  appears : <br>
+   ""Password is required""<br>
+**Status**<br>
+Pass<br>
 
-**Test_ID 7**
-**Test Title**
-Verify that user can not login with blank password and blank username 
-**Pre-condition**
-1- Open the link "https://www.saucedemo.com/"
-**Test Steps**
-1- Click on username field
-2- Enter correct username
-3- Click on ""login"" button
-**Test Data**
+**Test_ID 7**<br>
+**Test Title**<br>
+Verify that user can not login with blank password and blank username <br>
+**Pre-condition**<br>
+1- Open the link "https://www.saucedemo.com/"<br>
+**Test Steps**<br>
+1- Click on username field<br>
+2- Enter correct username<br>
+3- Click on ""login"" button<br>
+**Test Data**<br>
 
-**Expected Result**
-1- User should not be able to login
-2- An error message should appear : 
-   ""Username and password is required""
-**Actual Result**
-1- User can not be able to login
-2- An error message  appears : 
-   ""username is required""
-**Status**
-Fail
+**Expected Result**<br>
+1- User should not be able to login<br>
+2- An error message should appear : <br>
+   ""Username and password is required""<br>
+**Actual Result**<br>
+1- User can not be able to login<br>
+2- An error message  appears : <br>
+   ""username is required"" <br>
+**Status** <br>
+Fail <br>
 
-**Test_ID 8**
-**Test Title**
-Verify that "username" and "Password" is case sensitivr  
-**Pre-condition**
-1- Open the link "https://www.saucedemo.com/"
-**Test Steps**
-1- Click on username field
-2- Enter correct username
-3- Click on ""login"" button
-**Test Data**
-username: Standard_user
-password : Secret_sauce
-**Expected Result**
-1- User should not be able to login
-2- An error message should appear : 
-   ""Username and password do not match any user in this service""
-**Actual Result**
-"1- User can not be able to login
-2- An error message  appears : 
-   ""Username and password do not match any user in this service"""
-**Status**
-Pass
+**Test_ID 8**<br>
+**Test Title**<br>
+Verify that "username" and "Password" is case sensitive <br>
+**Pre-condition** <br>
+1- Open the link "https://www.saucedemo.com/"<br>
+**Test Steps**<br>
+1- Click on username field<br>
+2- Enter correct username<br>
+3- Click on ""login"" button<br>
+**Test Data**<br>
+username: Standard_user<br>
+password : Secret_sauce<br>
+**Expected Result**<br>
+1- User should not be able to login<br>
+2- An error message should appear : <br>
+   ""Username and password do not match any user in this service""<br>
+**Actual Result**<br>
+"1- User can not be able to login<br>
+2- An error message  appears : <br>
+   ""Username and password do not match any user in this service"""<br>
+**Status**<br>
+Pass<br>
 
-**Test_ID 9**
-**Test Title**
-verify that applying sql injection in "username" and "password"
-**Pre-condition**
-1- Open the link "https://www.saucedemo.com/"
-**Test Steps**
-1- Enter correct username
-2- Enter correct password
-**Test Data**
-"username : standard_user
-password : secret_sauce"
-**Expected Result**
-1- User should not be able to login
-2- An error message should appear : 
-   ""Username and password do not match any user in this service""
-**Actual Result**
-1- User can not be able to login
-2- An error message  appears : 
-   ""Username and password do not match any user in this service""
-**Status**
-Pass
+**Test_ID 9**<br>
+**Test Title**<br>
+verify that applying sql injection in "username" and "password"<br>
+**Pre-condition**<br>
+1- Open the link "https://www.saucedemo.com/"<br>
+**Test Steps**<br>
+1- Enter correct username<br>
+2- Enter correct password<br>
+**Test Data**<br>
+"username : standard_user<br>
+password : secret_sauce"<br>
+**Expected Result** <br>
+1- User should not be able to login<br>
+2- An error message should appear : <br>
+   ""Username and password do not match any user in this service""<br>
+**Actual Result**<br>
+1- User can not be able to login<br>
+2- An error message  appears : <br>
+   ""Username and password do not match any user in this service""<br>
+**Status**<br>
+Pass<br>
 
 
 
