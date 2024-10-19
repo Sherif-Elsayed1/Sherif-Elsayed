@@ -19,7 +19,7 @@ Pass <br>
 
 
 
-**TC_ID 2** <br>
+## TC_ID 2 <br>
 **Test Title** <br>
 Verify That "Sign in with Apple" button is clickable and redirects to Apple login screen 		<br>
 **pre-condition** <br>
@@ -35,7 +35,7 @@ User is on the login screen <br>
 **Status** <br>
 Pass <br>
 
-**TC_ID 3** <br>
+## TC_ID 3 <br>
 **Test Title** <br>
 Verify That "Email" button is clickable and redirects to Email login screen 	 <br>
 **pre-condition** <br>
@@ -51,7 +51,7 @@ User is on the login screen	 <br>
 **Status** <br>
 Pass <br>
 
-**TC_ID 4** <br>
+## TC_ID 4 <br>
 **Test Title** <br>
 Verify That "Sign in with Facebook" button is clickable and redirects to Facebook login screen	User is on the login screen	  <br>
 **pre-condition** <br>
@@ -68,7 +68,7 @@ Verify That "Sign in with Facebook" button is clickable and redirects to Faceboo
 Fail <br>
 
 
-**TC_ID 5** <br>
+## TC_ID 5 <br>
 **Test Title** <br>
 Verify That "Why do i need to create an account?" is clickable and redirects to page	 <br>
 **pre-condition** <br>
@@ -82,7 +82,7 @@ The page containing reasons to create an account appeares <br>
 **Status** <br>
 Pass <br>
 
-**TC_ID 6** <br>
+## TC_ID 6 <br>
 **Test Title** <br>
 Verify that "Privacy Policy and Terms" link are clickable and redirects to the appropriate documents <br>
 **pre-condition** <br>
@@ -99,7 +99,7 @@ User is on the login screen <br>
 **Status** <br>
 Fail <br>
 
-**TC_ID 7** <br>
+##TC_ID 7 <br>
 **Test Title** <br>
 Verify that all UI elements are properly aligned and visible			 <br>
 **pre-condition** <br>
@@ -115,7 +115,7 @@ Pass <br>
 
 ## Any.do_HomePage_TC <br>
 <br>
-**TC_ID 1** <br>
+## TC_ID 1 <br>
 **Test Title** <br>
 Verify that the search bar allows users to search for tasks, events, and notes <br>
 **pre-condition** <br>
@@ -135,7 +135,7 @@ The relevant Tasks, events , or notes matching the search query is displayed <br
 **Status** <br>
 Pass <br>
 
-**TC_ID 2** <br>
+## TC_ID 2 <br>
 
 **Test Title** <br>
 Verify that search not affected with upper and lower case <br>
@@ -159,7 +159,7 @@ The relevant Tasks, events , or notes matching the search query is displayed for
 **Status** <br>
 Pass <br>
 
-**TC_ID 3** <br>
+## TC_ID 3 <br>
 **Test Title** <br>
 Verify that clicking on the "+" button allows the user to create a new task list <br>
 **pre-condition** <br>
@@ -178,7 +178,7 @@ A new list is created and displayed in the "My lists" section <br>
 **Status** <br>
 Pass <br>
 
-**TC_ID 4** <br>
+## TC_ID 4 <br>
 
 **Test Title** <br>
 Verify that clicking on the "+" button allows the user to create a new task list as grocery list <br>
@@ -199,7 +199,7 @@ A new list is created and displayed in the "My lists" section with grocery icon 
 **Status** <br>
 Pass <br>
 
-**TC_ID 5** <br>
+## TC_ID 5 <br>
 
 **Test Title**<br>
 Verify that user can delete any List from "My lists" <br>
@@ -219,7 +219,7 @@ Verify that user can delete any List from "My lists" <br>
 Pass <br>
 
 
-**TC_ID 6** <br>
+## TC_ID 6 <br>
 
 **Test Title** <br>
 Verify that clicking each list (personal, Work, Grocery List) displays the correct tasks under that category <br>
@@ -241,7 +241,7 @@ Verify that clicking each list (personal, Work, Grocery List) displays the corre
 **Status** <br>
 Pass <br>
 
-**TC_ID 7** <br>
+## TC_ID 7 <br>
 
 **Test Title** <br>
 Verify that the "Shared Space" section is clickcable and redirects the user to shared space when <br> 
@@ -261,7 +261,7 @@ Verify that the "Shared Space" section is clickcable and redirects the user to s
 **Status** <br>
 Pass <br>
 
-**TC_ID 8** <br>
+## TC_ID 8 <br>
 
 **Test Title** <br>
 Verify that the bottom navigation options (My Day, Next 7 Days, All Tasks, Calendar) correctly filter and display tasks. <br>
@@ -283,7 +283,7 @@ Verify that the bottom navigation options (My Day, Next 7 Days, All Tasks, Calen
 **Status** <br>
 Pass <br>
 
-**TC_ID 9** <br>
+## TC_ID 9 <br>
 **Test Title** <br>
 Verify that the lock icon will lock the list from any edit will be applied <br>
 **pre-condition** <br>
@@ -300,7 +300,7 @@ Verify that the lock icon will lock the list from any edit will be applied <br>
 **Status** <br>
 Pass <br>
 
-**TC_ID 10** <br>
+## TC_ID 10 <br>
 **Test Title** <br>
 Verify that app ask for credentials when user try to unlock "My lists" <br>
 **pre-condition** <br>
@@ -318,7 +318,7 @@ Verify that app ask for credentials when user try to unlock "My lists" <br>
 **Status** <br>
 Fail <br>
 
-**TC_ID 11** <br>
+## TC_ID 11 <br>
 **Test Title** <br>
 Verify that app send a push notification when a task is due <br>
 **pre-condition** <br>
@@ -336,7 +336,7 @@ Pass <br>
 
 
 
-**TC_ID 12** <br>
+## TC_ID 12 <br>
 **Test Title** <br>
 Verify that all "My lists" section counts the inside tasks successfully <br>
 **pre-condition** <br>
@@ -358,7 +358,7 @@ Pass <br>
 
 ## Any.do_bottomBar_TC <br>
 <br>
-**TC_ID 1** <br>
+## TC_ID 1 <br>
 **Test Title** <br>
 Verify that a user can create a new task by using the input box at the bottom of the screen. <br>
 
@@ -379,7 +379,7 @@ The new task (Task_1) appears in the “My day" list  <br>
 **Status**   <br>
 Pass <br>
 
-**TC_ID 2** <br>
+## TC_ID 2 <br>
 **Test Title** <br>
 Verify that created tasks can be selected to mark as compeleted <br>
 **pre-condition** <br>
@@ -401,7 +401,7 @@ Verify that created tasks can be selected to mark as compeleted <br>
 **Status**  <br>
 Pass <br>
 
-**TC_ID 3** <br>
+## TC_ID 3 <br>
 **Test Title** <br>
 Verify that clicking the checkmark on a completed task will unmarks it  <br>
 **pre-condition** <br>
@@ -423,7 +423,7 @@ Verify that clicking the checkmark on a completed task will unmarks it  <br>
 **Status** <br>
 Pass <br>
 
-**TC_ID 4** <br>
+## TC_ID 4 <br>
 **Test Title** <br>
 Verify that clicking the “X” button removes the task from the list <br>
 **pre-condition** <br>
@@ -445,7 +445,7 @@ Pass <br>
 
 
 
-**TC_ID 5** <br>
+## TC_ID 5 <br>
 **Test Title** <br>
 Verify that completed tasks automatically sort below uncompleted tasks. <br>
 **pre-condition** <br>
@@ -464,7 +464,7 @@ Verify that completed tasks automatically sort below uncompleted tasks. <br>
 **Status**   <br>
 Pass <br>
 
-**TC_ID 6** <br>
+## TC_ID 6 <br>
 **Test Title** <br>
 Verify that tasks in the “My Day” list can be reordered by dragging and dropping. <br>
 **pre-condition** <br>
@@ -482,7 +482,7 @@ Verify that tasks in the “My Day” list can be reordered by dragging and drop
 **Status**  <br>
 Pass <br>
 
-**TC_ID 7** <br> 
+## TC_ID 7 <br> 
 **Test Title** <br>
 Verify that the created task in "next 7 Days" list on today section will appear in "My Day" list <br>
 **pre-condition** <br>
@@ -503,7 +503,7 @@ task name : test_11 <br>
 **Status**   <br>
 Fail <br>
 
-**TC_ID 8** <br>
+## TC_ID 8 <br>
 **Test Title** <br>
 Verify that user can clear all the completed tasks  <br>
 **pre-condition** <br>
@@ -524,7 +524,7 @@ Verify that user can clear all the completed tasks  <br>
 **Status**  <br>
 Pass <br>
 
-**TC_ID 9** <br>
+## TC_ID 9 <br>
 **Test Title** <br>
 Verify that user can add task to the last day in "Next 7 Days" list  <br>
 **pre-condition** <br>
@@ -544,7 +544,7 @@ Verify that user can add task to the last day in "Next 7 Days" list  <br>
 Pass <br>
 
 
-**TC_ID 10** <br>
+## TC_ID 10 <br>
 **Test Title** <br>
 Verify that user can delete his account <br>
 **pre-condition** <br>
@@ -574,7 +574,7 @@ Verify that user can delete his account <br>
 **Status**   <br>
 Fail <br>
 
-**TC_ID 11** <br>
+## TC_ID 11 <br>
 **Test Title** <br>
 Verify that when apple account user can delete his account <br>
 **pre-condition** <br>
@@ -603,7 +603,7 @@ Verify that when apple account user can delete his account <br>
 **Status**  <br>
 Fail <br>
 
-**TC_ID 12** <br>
+## TC_ID 12 <br>
 **Test Title** <br>
 Verify that user can move between "Updates" , "News" and help icon smoothly <br>
 **pre-condition** <br>
@@ -624,7 +624,7 @@ Verify that user can move between "Updates" , "News" and help icon smoothly <br>
 **Status** <br>
 Fail <br>
 
-**TC_ID 13**  <br>
+## TC_ID 13 <br>
 **Test Title** <br>
 Verity that user can use "setting" in notification when ever he want <br>
 **pre-condition** <br>
