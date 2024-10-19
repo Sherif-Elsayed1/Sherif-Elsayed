@@ -1,6 +1,6 @@
 # SwagLabs_TCs <br>
 
-**Test_ID 1**<br>
+## Test_ID 1<br>
 **Test Title**<br>
 Verify that user can login using correct username and correct password<br>
 **Pre-condition**<br>
@@ -21,7 +21,7 @@ User is logged in successfully<br>
 **Status**<br>
 Pass<br>
 
-**Test_ID 2**<br>
+## Test_ID 2<br>
 **Test Title**<br>
 Verify that user can not login using incorrect username and correct password<br>
 **Pre-condition**<br>
@@ -46,7 +46,7 @@ password : secret_sauce<br>
 **Status**<br>
 Pass<br>
 
-**Test_ID 3**<br>
+## Test_ID 3<br>
 **Test Title**<br>
 Verify that user can not login using correct username and incorrect password<br>
 **Pre-condition**<br>
@@ -71,7 +71,7 @@ password : secret<br>
 **Status**<br>
 Pass<br>
 
-**Test_ID 4**<br>
+## Test_ID 4<br>
 **Test Title**<br>
 Verify that user can not login using incorrect username and incorrect password<br>
 **Pre-condition**<br>
@@ -97,7 +97,7 @@ password : secret"<br>
 Pass<br>
 
 
-**Test_ID 5**<br>
+##Test_ID 5<br>
 **Test Title**<br>
 Verify that user can not login with blank username <br>
 **Pre-condition**<br>
@@ -119,7 +119,7 @@ password : secret<br>
 **Status**<br>
 Pass<br>
 
-**Test_ID 6** <br>
+## Test_ID 6 <br>
 **Test Title** <br>
 Verify that user can not login with blank password<br>
 **Pre-condition**<br>
@@ -141,7 +141,7 @@ username : standard_user<br>
 **Status**<br>
 Pass<br>
 
-**Test_ID 7**<br>
+## Test_ID 7<br>
 **Test Title**<br>
 Verify that user can not login with blank password and blank username <br>
 **Pre-condition**<br>
@@ -163,7 +163,7 @@ Verify that user can not login with blank password and blank username <br>
 **Status** <br>
 Fail <br>
 
-**Test_ID 8**<br>
+## Test_ID 8 <br>
 **Test Title**<br>
 Verify that "username" and "Password" is case sensitive <br>
 **Pre-condition** <br>
@@ -186,7 +186,7 @@ password : Secret_sauce<br>
 **Status**<br>
 Pass<br>
 
-**Test_ID 9**<br>
+## Test_ID 9 <br>
 **Test Title**<br>
 verify that applying sql injection in "username" and "password"<br>
 **Pre-condition**<br>
