@@ -1,4 +1,4 @@
-### Bug ID	1
+## Bug ID	1
 **Bug title** <br> 
 User can not sign in with Facebook account <br>
 **eproducible steps**<br>
@@ -23,7 +23,7 @@ High <br>
 **Impact** <br>
 Facebook user can not use the app  <br>
 
-### Bug ID	2 <br>
+## Bug ID	2 <br>
 **Bug title**	The frame of offer time is not fixed when count down <br>
 **Reproducible steps** <br>
 1- Open ""Any.do"" app  <br>
@@ -46,7 +46,7 @@ Low<br>
 **Impact** <br>
 It conflict the user and make the app unstable <br>
 
-### Bug ID	3 <br>
+## Bug ID	3 <br>
 translated to Arabic when change language to Arabic <br>
 **Reproducible steps**<br>
 1- Open ""Any.do"" app <br>
@@ -74,7 +74,7 @@ Medium <br>
 **Impact** <br>
 User can not deal with some app features <br>
 
-### Bug ID	4 <br>
+## Bug ID	4 <br>
 **Bug title** <br>
 User can delete "Apple Reminders" and can not return this feature again <br>
 **Reproducible steps** <br>
@@ -101,7 +101,7 @@ High  <br>
 ***Impact**	  <br>
 User will miss this feature when delete it and want to use it again   <br>
 
-### Bug ID	5  <br>
+## Bug ID	5  <br>
 **Bug title**	  <br>
 user can not open help icon twice  <br>
 **Reproducible steps**  <br>
@@ -124,7 +124,7 @@ Low  <br>
 **Impact**  <br>
 It effect in user experience through the app  <br>
 
-### Bug ID	6   <br>
+## Bug ID	6   <br>
 **Bug title**	In "My Day" that contain some tasks ,there is message saying "No events today.Hooray!"  <br>
 **Reproducible steps**	 <br>
 1- Open ""Any.do"" app  <br>
@@ -148,7 +148,7 @@ Low <br>
 **Impact**	 <br>
 It effect in user experience through the app <br>
 
-### Bug ID	7  <br>
+## Bug ID	7  <br>
 **Bug title**	 <br>
 User can not be able to use setting of notification when ever he want <br>
 **Reproducible steps**	 <br>
@@ -176,7 +176,7 @@ Low <br>
 **Impact**	 <br>
 It effect in user experience through the app, user can not use setting when ever he want  <br>
 
-### Bug ID	8 <br>
+## Bug ID	8 <br>
 **Bug title**	 <br>
 User can not add task when offer label is next to the day that user want to add task <br>
 **Reproducible steps**	 <br>
@@ -200,7 +200,7 @@ High <br>
 **Impact**	 <br>
 It will lose user experience <br>
 
-### Bug ID	9 <br>
+## Bug ID	9 <br>
 **Bug title**	Some describtion fields still in english when user change Language to arabic <br>
 **Reproducible steps**	"1- Open ""Any.do"" app  <br>
 2- Sign in with your account <br>
@@ -228,7 +228,7 @@ Medium <br>
 **Impact**	 <br>
 User can not deal with some app features <br>
 
-### Bug ID	10 <br>
+## Bug ID	10 <br>
 **Bug title**	Password are not written as hidden icon ( like this ** ) in password field, When user try to delete his account <br>
 **Reproducible steps**	 <br>
 1- Open ""Any.do"" app <br>
@@ -256,7 +256,7 @@ Medium <br>
 **Impact**	 <br>
 user could not see what he is typing as (*) <br>
 
-### Bug ID	11 <br>
+## Bug ID	11 <br>
 **Bug title**	<br>
 User can not be able to delete his profile picture when upload it <br>
 **Reproducible steps**	 <br>
@@ -279,7 +279,7 @@ Medium <br>
 **Impact**	<br>
 It is user need so when it missed user can not delete his picture <br>
 
-### Bug ID	12 <br>
+## Bug ID	12 <br>
 **Bug title**	 <br>
 The title of "Privacy policy" site is hidden   <br>
 **Reproducible steps**	 <br>
@@ -302,7 +302,7 @@ Low <br>
 **Impact**	 <br>
 It decrease the user experience through the app  <br>
 
-### Bug ID	13 <br>
+## Bug ID	13 <br>
 **Bug title**	The created today task in "Next 7 days" section is not appear in "My Day" section <br>
 **Reproducible steps**	"1- Open ""Any.do"" app <br>
 2- Sign in with your account <br>
@@ -328,7 +328,7 @@ Medium <br>
 **Impact**	 <br>
 It effect the interface through the app<br>
 
-### Bug ID	14 <br>
+## Bug ID	14 <br>
 **Bug title**	The title of "terms" site is hidden <br> 
 **Reproducible steps**	<br>
 1- Open ""Any.do"" app <br>
