@@ -1,5 +1,5 @@
 ### Bug ID	1
-**Bug title**  
+**Bug title** <br> 
 User can not sign in with Facebook account 
 **eproducible steps**
 1- Open ""Any.do"" app 
